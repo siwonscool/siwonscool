@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+
+<!-- git status
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siwonscool)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
+-->
